@@ -6,7 +6,7 @@
 
 This repository represents the finance calculator capstone project in the _HyperionDev Data Science (Fundamentals)_ course. The main script can be found [here](https://github.com/ianhaggerty/finance-calculator-capstone/blob/master/finance_calculators.py).
 
-Please see the [project requirements](https://github.com/ianhaggerty/finance-calculator-capstone/blob/master/10-012%20Capstone%20Project%20-%20Variables%20and%20Control%20Structures.pdf) and corresponding [grading](https://hyperiondev.cogrammar.com/review/e5c7d8dde86cc257bf86f39d7edc603f1ea4a96aa7907385d619dae510b42e69/) by Abdul Gafoor.
+Please see the [project requirements](https://github.com/ianhaggerty/finance-calculator-capstone/blob/master/10-012%20Capstone%20Project%20-%20Variables%20and%20Control%20Structures.pdf) and corresponding [grading](https://hyperiondev.cogrammar.com/review/e5c7d8dde86cc257bf86f39d7edc603f1ea4a96aa7907385d619dae510b42e69/), generously provided by Abdul Gafoor.
 
 ## Images
 
